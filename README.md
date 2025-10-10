@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm Karl, a second-year software engineering student based in Ontario. I'm studying at [**McMaster University**](https://www.mcmaster.ca/), where I'm currently involved in technical clubs like [**McMaster EcoCAR**](https://www.macecocar.ca/) and [**MAC RoboMaster**](https://macrobomaster.com/). There I work with systems using C++, Python, and tools like CMake and ROS.
+I'm Karl, a second-year software engineering student based in Ontario. I'm studying at [**McMaster University**](https://www.mcmaster.ca/), where I'm currently involved in working with systems using C++, Python, and tools like CMake and ROS.
 
 I like building stuff I find interesting, from full fledged apps to random experiments. I enjoy exploring new frameworks or systems and like turning ideas into real things.
 
