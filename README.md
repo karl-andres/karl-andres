@@ -12,7 +12,7 @@ I'm a second-year Software Engineering student at [**McMaster University**](http
 
 I’m passionate about full-stack development and currently exploring AI/ML, with ongoing projects that combine both areas, including a music generation app that integrates machine learning models for creative output. I enjoy experimenting with different frameworks, and deploying scalable applications that merge intelligence and usability.
 
-Outside of tech, I practice taekwondo, play guitar, and play an unhealthy amount of games. I value creativity, discipline, and problem-solving — whether I’m writing code, composing music, or learning new martial arts techniques.
+Outside of tech, I practice taekwondo, play guitar, and play an unhealthy amount of games. I value creativity, discipline, and problem-solving, whether I’m writing code, composing music, or learning new martial arts techniques.
 
 ---
 
