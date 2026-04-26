@@ -10,7 +10,7 @@
 
 I'm Karl, a second-year software engineering student based in Ontario. I'm studying at [**McMaster University**](https://www.mcmaster.ca/)
 
-I'm currertly interested in data engineering and applied machine learning, particularly when they are involved in the topics of with defense and robotics. I enjoy keeping up with the latest developments in general software engineering and emerging technologies
+I'm currertly interested in agentic AI. I enjoy keeping up with the latest developments in general software engineering and emerging technologies
 
 Outside of tech, I practice taekwondo, produce music, and play an unhealthy amount of games. 
 
