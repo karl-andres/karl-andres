@@ -8,7 +8,7 @@
 
 ### About Me
 
-I'm Karl, a second-year software engineering student based in Ontario. I'm studying at [**McMaster University**](https://www.mcmaster.ca/)
+I'm Karl, a third-year software engineering student based in Ontario. I'm studying at [**McMaster University**](https://www.mcmaster.ca/)
 
 I'm currertly interested in agentic AI. I enjoy keeping up with the latest developments in general software engineering and emerging technologies
 
